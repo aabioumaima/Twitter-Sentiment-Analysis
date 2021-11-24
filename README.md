@@ -5,7 +5,7 @@ The objective of this task is to detect hate speech in tweets. We say a tweet co
 For training the models, we provide a labelled dataset of 31,962 tweets. The dataset is provided in the form of a csv file with each line storing a tweet id, its label and the tweet
 
 ## Libraries:
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn 
+- Matplotlib
+- Seaborn
+- Scikit-learn 
+- Pandas
